@@ -19,3 +19,7 @@ That's right. The art we put out there is free for you to download and use in yo
 After all, a gnome's gotta eat.
 
 <p align="center"><a href="https://www.patreon.com/melvinsmechanicalmasterworks"><img src="https://user-images.githubusercontent.com/14878515/187728131-81405c0d-eb0a-41ab-995c-0443b7cf1472.png"></a></p>
+
+## Preview Gallery
+<p align="center"><img title="Workshop UI" src="https://user-images.githubusercontent.com/14878515/187729942-92ed7903-f1fd-44f9-9a9c-758ff90715de.png"></p>
+
