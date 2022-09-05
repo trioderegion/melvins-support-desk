@@ -22,6 +22,19 @@ After all, a gnome's gotta eat.
 
 <p align="center"><a href="https://www.patreon.com/melvinsmechanicalmasterworks"><img src="https://user-images.githubusercontent.com/14878515/187728131-81405c0d-eb0a-41ab-995c-0443b7cf1472.png"></a></p>
 
+### A Bedtime Story with Artoe
+[![Artoe's Bedtime Story](https://user-images.githubusercontent.com/14878515/188356886-f3f52457-4b4e-4b2d-ae27-7ca3de83c48f.png)](https://www.youtube.com/watch?v=JJwTDIyYo8I)
+
 ## Preview Gallery
-<p align="center"><img title="Workshop UI" src="https://user-images.githubusercontent.com/14878515/187729942-92ed7903-f1fd-44f9-9a9c-758ff90715de.png"></p>
+
+### Character Creation and Custom Journals with Melvin's Workshop
+[![Example Workflow](https://img.youtube.com/vi/1d8l3EPyopU/0.jpg)](https://www.youtube.com/watch?v=1d8l3EPyopU)
+[![Example Use in Journals](https://img.youtube.com/vi/8GqDpScGyJ0/0.jpg)](https://www.youtube.com/watch?v=8GqDpScGyJ0)
+
+_example journal video clip courtesy of [@geekswordsman](https://github.com/geekswordsman)_
+
+![Fire Sorcerer](https://user-images.githubusercontent.com/14878515/188355769-0f751f44-704d-4a89-96aa-ad431b22c59d.png)
+
+![Lizard Person](https://user-images.githubusercontent.com/14878515/188355859-2239b632-588f-4e24-9509-80502612f494.png)
+
 
