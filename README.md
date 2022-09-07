@@ -25,14 +25,19 @@ After all, a gnome's gotta eat.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/trioderegion/melvins-support-desk">Generated Images from Melvin's Mechanical Masterworks</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.patreon.com/melvinsmechanicalmasterworks"> Reid Sanders, Charles West, and Matthew Haentschke</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
+### F.A.Q.
+
+#### Where is Melvin's Masterworks?
+
+In any FilePicker for which you have upload permissions, a paintbrush icon will be in the bottom right corner which launches the Workshop application. When importing images from Melvin's Workshop, they will be placed in the currently active folder of the FilePicker the workshop was launched from. See the following video for a quick demonstration.
+
+[![Example Workflow](https://img.youtube.com/vi/1d8l3EPyopU/0.jpg)](https://www.youtube.com/watch?v=1d8l3EPyopU)
 
 ### A Bedtime Story with Artoe
 [![Artoe's Bedtime Story](https://user-images.githubusercontent.com/14878515/188356886-f3f52457-4b4e-4b2d-ae27-7ca3de83c48f.png)](https://www.youtube.com/watch?v=JJwTDIyYo8I)
 
 ## Preview Gallery
 
-### Character Creation and Custom Journals with Melvin's Workshop
-[![Example Workflow](https://img.youtube.com/vi/1d8l3EPyopU/0.jpg)](https://www.youtube.com/watch?v=1d8l3EPyopU)
 [![Example Use in Journals](https://img.youtube.com/vi/8GqDpScGyJ0/0.jpg)](https://www.youtube.com/watch?v=8GqDpScGyJ0)
 
 _example journal video clip courtesy of [@geekswordsman](https://github.com/geekswordsman)_
