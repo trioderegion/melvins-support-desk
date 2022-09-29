@@ -32,7 +32,8 @@ After all, a gnome's gotta eat.
 
 In any FilePicker for which you have upload permissions, a paintbrush icon will be in the bottom right corner which launches the Workshop application. When importing images from Melvin's Workshop, they will be placed in the currently active folder of the FilePicker the workshop was launched from. See the following video for a quick demonstration.
 
-[![Example Workflow](https://img.youtube.com/vi/1d8l3EPyopU/0.jpg)](https://www.youtube.com/watch?v=1d8l3EPyopU)
+https://user-images.githubusercontent.com/14878515/193128450-671e9754-f48e-4a03-84a4-2631554a7717.mp4
+
 
 ### A Bedtime Story with Artoe
 [![Artoe's Bedtime Story](https://user-images.githubusercontent.com/14878515/188356886-f3f52457-4b4e-4b2d-ae27-7ca3de83c48f.png)](https://www.youtube.com/watch?v=JJwTDIyYo8I)
