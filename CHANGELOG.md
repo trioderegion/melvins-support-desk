@@ -23,6 +23,6 @@
 
 # 1.2.0 - Open Season
 
-# What's New
+## What's New
 * Officially supporting FoundryVTT v9
 * Increased responsiveness and sizing considerations of main Workshop app. Minimum tested device height = 768px
