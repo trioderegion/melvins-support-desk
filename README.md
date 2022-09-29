@@ -2,8 +2,9 @@
 Public repository for issues related to Melvin's Mechanical Masterworks, a FoundryVTT module.
 
 ## Quick Links
-* Latest Module Manifest: [Live Manifest](https://storage.googleapis.com/download/storage/v1/b/dist-mels-masterworks/o/module.json?alt=media).
+* Latest Module Manifest: [Live Manifest](https://storage.googleapis.com/download/storage/v1/b/dist-mels-masterworks/o/module.json?alt=media)
 * FoundryVTT Package Page: [Package Listing](https://foundryvtt.com/packages/mels-masterworks)
+* Melvin's Discord: https://discord.gg/TF54x6azYS
 
 ## About Us
 Scarcity is bad.  So let's fix that.
