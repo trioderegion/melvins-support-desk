@@ -1,3 +1,14 @@
+# 2.1.0 - Artoe's Laminator
+
+## What's New
+* New search categories: `Scenes` and `Token Borders`
+* Artoe's Laminator: Companion application to Melvin's Workshop for quickly creating tokens from favorited images or search results.
+* `Workshop` and `Laminator` classes exposed via the module's API.
+  * `game.modules.get('mels-masterworks').Workshop` and  `game.modules.get('mels-masterworks').Laminator`, respectively.
+
+## Fixes
+* Workshop now remembers last grid/result size until browser reload.
+
 # 2.0.0 - Binder Full of Creatures
 
 ## What's New
