@@ -5,6 +5,8 @@
 * Artoe's Laminator: Companion application to Melvin's Workshop for quickly creating tokens from favorited images or search results.
 * `Workshop` and `Laminator` classes exposed via the module's API.
   * `game.modules.get('mels-masterworks').Workshop` and  `game.modules.get('mels-masterworks').Laminator`, respectively.
+* Workshop now launches in "offline" mode, allowing access to Artoe's Laminator when the remote server is down or for laminating local assets.
+  * Configuration dropdown expanded by default until the first search is performed.
 
 ## Fixes
 * Workshop now remembers last grid/result size until browser reload.
