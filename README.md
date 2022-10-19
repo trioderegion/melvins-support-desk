@@ -46,6 +46,8 @@ https://user-images.githubusercontent.com/14878515/196805145-38c837cf-1358-4eed-
 
 _example journal video clip courtesy of [@geekswordsman](https://github.com/geekswordsman)_
 
+![Artoe's Laminator](https://user-images.githubusercontent.com/14878515/196819155-3ca31246-1bb5-4dda-908f-c584a506a970.jpg)
+
 ![Fire Sorcerer](https://user-images.githubusercontent.com/14878515/188355769-0f751f44-704d-4a89-96aa-ad431b22c59d.png)
 
 ![Lizard Person](https://user-images.githubusercontent.com/14878515/188355859-2239b632-588f-4e24-9509-80502612f494.png)
