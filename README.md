@@ -35,6 +35,7 @@ In any FilePicker for which you have upload permissions, a paintbrush icon will 
 
 https://user-images.githubusercontent.com/14878515/193128450-671e9754-f48e-4a03-84a4-2631554a7717.mp4
 
+https://user-images.githubusercontent.com/14878515/196805145-38c837cf-1358-4eed-a0b2-7845d768554a.mp4
 
 ### A Bedtime Story with Artoe
 [![Artoe's Bedtime Story](https://user-images.githubusercontent.com/14878515/188356886-f3f52457-4b4e-4b2d-ae27-7ca3de83c48f.png)](https://www.youtube.com/watch?v=JJwTDIyYo8I)
