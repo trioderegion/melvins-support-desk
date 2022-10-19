@@ -1,4 +1,4 @@
-# 2.1.0 - Artoe's Laminator
+# 2.1.0 (2.1.1) - Artoe's Laminator
 
 ## What's New
 * New search categories: `Scenes` and `Token Borders`
@@ -7,6 +7,10 @@
   * `game.modules.get('mels-masterworks').Workshop` and  `game.modules.get('mels-masterworks').Laminator`, respectively.
 * Workshop now launches in "offline" mode, allowing access to Artoe's Laminator when the remote server is down or for laminating local assets.
   * Configuration dropdown expanded by default until the first search is performed.
+
+## Fixes
+* Remove empty `systems` field in manifest.
+* Including `node_modules` in build process.
 
 ## Fixes
 * Workshop now remembers last grid/result size until browser reload.
