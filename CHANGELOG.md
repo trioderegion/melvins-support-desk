@@ -1,3 +1,10 @@
+# 2.1.2 - Single Town
+
+## Fixes
+* Re-opening the workshop from the FilePicker paintbrush button will now detect if an active workshop application is rendered already and open/maximize it instead of re-rendering and breaking display styles.
+* Strengthened FilePicker target path parsing by using `decodeURI` instead of performing an element query. This allows continued workshop operation even if the bound file picker is closed.
+* When importing favorited images/tokens, if the bound FilePicker is closed, it will be opened and re-rendered upon import success.
+
 # 2.1.0 (2.1.1) - Artoe's Laminator
 
 ## What's New
@@ -11,8 +18,6 @@
 ## Fixes
 * Remove empty `systems` field in manifest.
 * Including `node_modules` in build process.
-
-## Fixes
 * Workshop now remembers last grid/result size until browser reload.
 
 # 2.0.0 - Binder Full of Creatures
