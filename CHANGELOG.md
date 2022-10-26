@@ -1,3 +1,19 @@
+# 2.1.3 Whips and Chains
+
+## What's New
+
+* Search configuration pinning: Can now right click on the search config button in the workshop (wrench icon) to "pin" it and keep it expanded while performing searches. Right click again to un-pin and return to normal auto-collapsing operation.
+
+## Fixes
+
+* FilePicker Workshop launch button injection strengthened: Now checks for explicit upload permissions instead of presence of upload button. 
+  * Workshop button has been **moved** from the bottom right of the dialog (near upload button) to the **top navigation tab header.**
+  * The FilePicker app to which the active Workshop app is bound will now keep its workshop button toggled or highlighted to indicate the active picker for the Workshop.
+  * Opening the workshop from another instance of a FilePicker will now rebind the current workshop (if it exists) instead of fully re-constructing.
+  * When the current directory of the bound FilePicker is not a valid upload destination for the current user, the Workshop's import path display will reflect this. Additionally, when the Workshop is in *any* state that does not allow uploading, the Workshop import buttons will be disabled.
+
+* Preset Picker now checks for permission to stock border folder before rendering and gracefully shows a warning notification to the user indicating the browse error.
+
 # 2.1.2 - Single Town
 
 ## Fixes
