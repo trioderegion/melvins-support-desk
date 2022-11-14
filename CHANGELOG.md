@@ -1,3 +1,8 @@
+# 2.1.5 Knife Game
+
+## Fixes
+* Dangerous type-based function "overriding" shamed out of existence.
+
 # 2.1.4 Bundle of Fun
 
 ## Fixes
