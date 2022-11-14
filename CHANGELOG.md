@@ -1,3 +1,10 @@
+# 2.1.4 Bundle of Fun
+
+## Fixes
+* Very small Workshop UI on relaunch after certain workflows
+  * Erroneously setting zoom value to result size on image select.
+* Forge
+
 # 2.1.3 Whips and Chains
 
 ## What's New
