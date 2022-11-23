@@ -1,3 +1,35 @@
+# 2.2.0 Crop Top
+
+## What's New
+* Similarity control slider moved below main search button for better exposure.
+  * After an initial text or random search, clicking on an image and searching again, will result in loosely related images.
+  * If the same image is used as the search basis, the "Similarity" slider will be reduced by one step, resulting in more closely related images.  Repeat this process to "dig in" to a specific style of image.
+  * If a different image is selected as the search basis, the "Similarity" slider will not be reduced.
+  * At any point, the user can select their desired similarity value for a search.
+  ### Similarity Search Workflow Example
+    1. I am looking for an elderly barkeep, without many other specifications. I select the "Portrait" category and search with "elderly barkeep" with the similarity slider at its default value ("least").
+    2. I get a scattershot of results, one or two catches my eye and I click on each one and add to favorites (right click selected image is a shortcut for this).  However, neither are exactly what I'm looking for.
+    3. I click one of the favorited images and click "Portrait Search" again -- the similarity slider drops by one notch, and results are _more_ similar to my selected image.
+    4. Seeing a better image than my current selection, I select that image, and click search again. This time, the similarity slider stays at its current value because we are not "digging into" a the same image, but rather "moving laterally" to a neighbor.
+    5. Repeat steps 2-4, adding and removing favorited images as better ones are found.
+    
+* Category translation for new `magicitems` category.
+* Image metric collection implemented (protocol `0.0.2`). This is the first step towards a "user curated" set of images allowing higher quality and relevance while reducing the breadth of the database search.
+  * The client will report to the server when an image is favorited, previewed, and imported.
+  * No identifying information is collected -- results are correlated with a unique session ID generated server-side.
+    * Each time the Workshop application is opened, a new session is initiated.
+### Artoe's Laminator v2
+![image](https://user-images.githubusercontent.com/14878515/203608328-f46d4b2c-3d7b-46b3-919e-44f839d4eb53.png)
+  * A "crop only" mode has been added which allows for saving the image at its source resolution size.
+    * The original "image merge" operations are limited to a maximum size of 512px square.
+  * Can now have both a "crop" Laminator and a "merge" Laminator application open simultaneously.
+  * Square cropping shape implemented.
+    * Due to image degradation concerns, changing the cropping shape will also perform a "reset workspace" on all Laminator cropping canvases, which restores the application and image states to their initial state upon opening the application.
+
+## Fixes
+* Regression of "remove saved" (trashcan) button handling for the favorites list has been corrected.
+* Removed source map from release build, reducing package size.
+
 # 2.1.5 Knife Game
 
 ## Fixes
