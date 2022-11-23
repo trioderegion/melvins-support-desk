@@ -31,9 +31,27 @@ After all, a gnome's gotta eat.
 
 #### Where is Melvin's Masterworks?
 
-In any FilePicker for which you have upload permissions, a paintbrush icon will be in the bottom right corner which launches the Workshop application. When importing images from Melvin's Workshop, they will be placed in the currently active folder of the FilePicker the workshop was launched from. See the following video for a quick demonstration.
+In any FilePicker for which you have upload permissions, a paintbrush icon will be in the top right corner which launches the Workshop application. When importing images from Melvin's Workshop, they will be placed in the currently active folder of the FilePicker the workshop was launched from. See the following video for a quick demonstration.
 
 https://user-images.githubusercontent.com/14878515/193128450-671e9754-f48e-4a03-84a4-2631554a7717.mp4
+
+#### How do I get the best search results?
+
+Our database is vast and one person's trash is another's treasure, so knowing how to best utilize our searching methods will help get you to that _perfect_ image more quickly.
+
+##### Example Search Workflow
+
+1. I am looking for an elderly barkeep, without many other specifications. I select the "Portrait" category and search with "elderly barkeep" with the similarity slider at its default value ("least").
+2. I get a scattershot of results, one or two catches my eye and I click on each one and add to favorites (right click selected image is a shortcut for this).  However, neither are exactly what I'm looking for.
+3. I click one of the favorited images and click "Portrait Search" again -- the similarity slider drops by one notch, and results are _more_ similar to my selected image.
+4. Seeing a better image than my current selection, I select that image, and click search again. This time, the similarity slider stays at its current value because we are not "digging into" a the same image, but rather "moving laterally" to a neighbor.
+5. Repeat steps 2-4, adding and removing favorited images as better ones are found.
+
+#### What is Artoe's Laminator?
+
+Artoe's Laminator is our image cropping and token creation tool, integrated directly into the Melvin's Workshop application. Use either Melvin's database, pre-packaged token borders (only a very small built-in sample of our _massive_ token border collection), or assets local to your FoundryVTT server.  See the video below for an example of its use.
+
+_Note: example video recorded on a previous version of Artoe's Laminator -- UI and specific workflows may be different_
 
 https://user-images.githubusercontent.com/14878515/196805145-38c837cf-1358-4eed-a0b2-7845d768554a.mp4
 
