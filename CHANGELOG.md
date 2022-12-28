@@ -1,3 +1,25 @@
+# 2.3.0 Display Case
+
+## What's New
+
+* "Community Picks" a.k.a. "Popular" search mode. Based on anonymously gathered statistics, your search results will be biased toward those results more often favorited, imported, and previewed.
+  * The default search mode "Default" maintains previous "full index" searching.
+
+![image](https://user-images.githubusercontent.com/14878515/209825013-9eb3e11e-14ae-4925-9271-2e15a3f39f19.png)
+
+* Improved search result responsiveness. Results being rendering as each is fetched, rather than after all are fetched.
+
+https://user-images.githubusercontent.com/14878515/209828402-5eca011b-fb51-4e34-b8ea-7e12fb7c609f.mp4
+
+* Improved Workshop<->Laminator communication. Laminator tool buttons will remain highlighted as long as that particular laminator tool (crop or merge) is open. Additionally, clicking on these highlighted buttons will bring the _current_ Laminator application instance to the top. Useful for "From Workshop" source selections in the Laminator.
+
+https://user-images.githubusercontent.com/14878515/209831704-aa428c98-ef5e-43f9-bf95-371629762047.mp4
+
+## Fixes
+
+* Tightened workshop app element sizing. Fewer scroll bars in small grid-size environments.
+* Gave sidebar select elements a slight orange border to emphasize interactibility.
+
 # 2.2.0 Crop Top
 
 ## What's New
