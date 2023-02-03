@@ -1,3 +1,18 @@
+# 2.4.0 Through the Mud
+
+## What's New
+
+* Drag and drop added for supported image types onto the Laminator application canvases. Both local files and remote URLs should be supported.
+
+https://user-images.githubusercontent.com/14878515/216498692-0de4ae42-a0aa-468a-8fba-72d4965c7150.mp4
+
+
+https://user-images.githubusercontent.com/14878515/216498584-40ab52ee-6bc1-47d9-9083-3f0c9889ef4b.mp4
+
+## Fixes
+
+* Addressed unclosable Laminator application if the Workshop is closed prior. Now, a Workshop application will not close, and inform the user of such, if there are open Laminator applications holding references to said Workshop.
+
 # 2.3.0 Display Case
 
 ## What's New
